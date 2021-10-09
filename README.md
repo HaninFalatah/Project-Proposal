@@ -2,7 +2,9 @@
 
 #### Question/need:
 * What is the framing question of your analysis, or the purpose of the model/system you plan to build? 
-  * how does the wtaher affect the bike rental 
+  * which day of the week the bikes are rented more than others?
+  * Is there an hour the bikes are rented most?
+  * If there is a season the bikes are rented more than others?
 * Who benefits from exploring this question or building this model/system? 
   * the people in Seoul that rid bikes
 
@@ -18,7 +20,7 @@
 #### Tools:
 * How do you intend to meet the tools requirement of the project? 
     * importing all the needed libiers 
-* Are you planning in advance to need or use additional tools beyond those required? No
+
 
 #### MVP Goal:
 * What would a (MVP) look like for this project?
