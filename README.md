@@ -23,4 +23,4 @@
 
 #### MVP Goal:
 * What would a (MVP) look like for this project?
-   * The goal of this project is to better understand which factors are most important in driving the weather, and how those factors relate the bike rental.
+   * The goal of this project is to better understand which factors are most important for the the bike rental.
