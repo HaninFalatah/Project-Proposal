@@ -19,8 +19,7 @@
 
 #### Tools:
 * How do you intend to meet the tools requirement of the project? 
-    * importing all the needed libiers 
-
+    * pandas, numpy, matplotlib, seaborn, train_test_split, LogisticRegression, LinearRegression, RandomForestRegressor,SVR, cross_val_score, fbeta_score, accuracy_score, 
 
 #### MVP Goal:
 * What would a (MVP) look like for this project?
