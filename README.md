@@ -15,7 +15,8 @@
   - The weather information (Temperature, Humidity, Windspeed, Visibility, Dewpoint, Solar radiation, Snowfall, Rainfall), the number of bikes rented per hour and date information.
   - I expect when there is rain or snow fall that count of rentl bikes goes down and the weekend and Holiday bikes goes down   
 * If modeling, what will you predict as your target? 
-   * perdicting if the day is functional for Bikes  
+   * perdicting if the day is functional for Bikes 
+* The Number of Instances:8760 and the Number of Attributes:14 
 
 #### Tools:
 * How do you intend to meet the tools requirement of the project? 
